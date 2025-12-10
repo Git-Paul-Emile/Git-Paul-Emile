@@ -44,9 +44,7 @@
   <a href="https://linkedin.com/in/paul-emile-peckouet-binombo-ba76bb278" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
   </a>
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" />
-  </a>
+ 
   <a href="https://instagram.com/paul_axel" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" />
   </a>
@@ -65,7 +63,6 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,postman,git,github,figma,tailwind" height="45"/>
 </p>
 
-<br/><hr/><br/>
 <!--
 <h1 align="center">👋 Hi, I'm <strong>Paul Emile</strong></h1>
 <h3 align="center">A passionate full-stack web & mobile developer from Gabon</h3>
