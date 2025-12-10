@@ -66,8 +66,7 @@
 </p>
 
 <br/><hr/><br/>
-
-<!-- ========================= ENGLISH VERSION ========================= -->
+<!--
 <h1 align="center">👋 Hi, I'm <strong>Paul Emile</strong></h1>
 <h3 align="center">A passionate full-stack web & mobile developer from Gabon</h3>
 
@@ -119,6 +118,8 @@
   </a>
 </p>
 
+
+
 <h2>💻 Languages & Tools</h2>
 
 <p align="left">
@@ -128,3 +129,4 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,postman,git,github,figma,tailwind" height="45"/>
 </p>
+-->
